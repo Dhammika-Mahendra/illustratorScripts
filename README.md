@@ -19,12 +19,10 @@
  var maxB - *Blue maximum*  
 
 * **No of Conical Sections :**
-*these section are duplicated and rotated to get the final output* 
-*a number that is a factor of 360 needed*  
+*These section are duplicated and rotated to get the final output. A number that is a factor of 360 needed.*    
  var sections
 
-* **No of Lines per section :**  
-*a conical section is a collection of randomly drawn lines*    
-*more lines give a smoother design*  
+* **No of Lines per section :**
+*A conical section is a collection of randomly drawn lines. More lines give a smoother design.*   
  var MinLine  
  var MaxLine
