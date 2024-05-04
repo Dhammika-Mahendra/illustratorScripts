@@ -26,5 +26,5 @@
 * **No of Lines per section :**  
 *a conical section is a collection of randomly drawn lines*    
 *more lines give a smoother design*  
- var MinLine=30  
- var MaxLine=40  
+ var MinLine  
+ var MaxLine
