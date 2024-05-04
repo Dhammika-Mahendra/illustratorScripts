@@ -8,23 +8,23 @@
 ### you can also change below designing parameters in the script file to customize the design
 
 * **No of Colors in the color pallete**
-+ var noCol
+ var noCol
 
 * **Color Range of the color pallete**
-+ var minR - *Red minimum*
-+ var maxR - *Red maximum*
-+ var minG - *Green minimum*
-+ var maxG - *Green maximum*
-+ var minB - *Blue minimum*
-+ var maxB - *Blue maximum*
+ var minR - *Red minimum*  
+ var maxR - *Red maximum*  
+ var minG - *Green minimum*  
+ var maxG - *Green maximum*  
+ var minB - *Blue minimum*  
+ var maxB - *Blue maximum*  
 
 * **No of Conical Sections :** 
-*these section are duplicated and rotated to get the final output*
+*these section are duplicated and rotated to get the final output*  
 *a number that is a factor of 360*
-+ var sections
+var sections
 
 * **No of Lines per section :**
-*a conical section is a collection of randomly drawn lines*
+*a conical section is a collection of randomly drawn lines*  
 *more lines give a smoother design*
-+ var MinLine=30
-+ var MaxLine=40
+var MinLine=30  
+var MaxLine=40  
