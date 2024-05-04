@@ -1,5 +1,5 @@
 ### Simple Adobe Illustrator script 
-###(A radial pattern design) 
+### (A radial pattern design) 
 
 
 1. Simply download the file and Place it in the Illustrator script path
