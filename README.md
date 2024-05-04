@@ -18,8 +18,8 @@
  var minB - *Blue minimum*  
  var maxB - *Blue maximum*  
 
-* **No of Conical Sections :**   
-<p style="color:grey;"> *these section are duplicated and rotated to get the final output* </p>
+* **No of Conical Sections :**
+*these section are duplicated and rotated to get the final output* 
 *a number that is a factor of 360 needed*  
  var sections
 
